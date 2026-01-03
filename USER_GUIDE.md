@@ -20,4 +20,4 @@ AuraSense AR is an assistive navigation tool. It uses your phone's camera and se
 - **DO NOT** use this as your primary navigation tool. 
 - Always use a white cane or a guide dog in unfamiliar environments.
 - Be aware of drop-offs like stairs, as AR may not detect floor-level changes instantly.
--
+
